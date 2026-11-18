@@ -1,6 +1,6 @@
 # DockVision
 
-At DockVision, we run bioinformatics and computational biology analyses for researchers, universities and biotech teams, from experimental design to final figures. Our expertise spans structural bioinformatics; genomics, transcriptomics and sequence analysis; scientific programming and statistical data analysis; and applied AI and machine learning in healthcare.
+At DockVision, we empower researchers, universities, and biotech teams with end-to-end bioinformatics and computational biology solutions. Our expertise spans structural bioinformatics; genomics, transcriptomics and sequence analysis; scientific programming and statistical data analysis; and applied AI and machine learning in healthcare.
 
 ## What we do
 
