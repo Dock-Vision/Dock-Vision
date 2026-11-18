@@ -1,6 +1,6 @@
 # DockVision
 
-DockVision is a computational biology and bioinformatics consultancy. We run analyses for researchers, universities and biotech teams, from experimental design to final figures.
+At DockVision, we run bioinformatics and computational biology analyses for researchers, universities and biotech teams, from experimental design to final figures. Our expertise spans structural bioinformatics; genomics, transcriptomics and sequence analysis; scientific programming and statistical data analysis; and applied AI and machine learning in healthcare.
 
 ## What we do
 
