@@ -24,7 +24,6 @@ At DockVision, we empower researchers, universities, and biotech teams with end-
 ## Featured work
 
 - **[dockvision-case-studies](https://github.com/Dock-Vision/dockvision-case-studies)** — the 27 case studies published on dockvisionbio.com, each with its figure and a short write-up.
-- **[docking-md-demo](https://github.com/Dock-Vision/docking-md-demo)** — runnable docking and MD workflow on public data: EGFR kinase (PDB 1M17) with erlotinib, AutoDock Vina redocking (top pose 1.67 Å from the crystal pose) and a short GROMACS simulation.
 - **[rnaseq-demo](https://github.com/Dock-Vision/rnaseq-demo)** — reproducible bulk RNA-seq analysis in R on the public airway dataset: DESeq2, PCA, volcano plot, heatmap and GO/KEGG enrichment.
 
 ## Work with us
