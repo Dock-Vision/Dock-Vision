@@ -11,10 +11,15 @@ At DockVision, we empower researchers, universities, and biotech teams with end-
 
 ## Tools we use
 
-- **Structural bioinformatics:** GROMACS, MM-PBSA / MM-GBSA, HADDOCK, PyMOL, DoGSite3, CoMSIA
-- **Machine learning:** scikit-learn, XGBoost, PyTorch, Optuna, SHAP, Captum, RDKit
-- **Omics:** Seurat v5, Harmony, Monocle3, CellChat, Bioconductor
-- **Data science:** Python, R Studio
+- **Molecular docking:** AutoDock Vina, AutoDock Tools (MGLTools), HADDOCK, DiffDock
+- **Molecular dynamics:** GROMACS, gmx_MMPBSA (MM-PBSA / MM-GBSA), CHARMM-GUI
+- **Structure & visualisation:** AlphaFold, PyMOL, UCSF Chimera, Discovery Studio Visualizer, Avogadro, Open Babel, DoGSite3
+- **Cheminformatics & ADMET:** RDKit, SwissADME, pkCSM, CoMSIA
+- **Genomics & transcriptomics:** FastQC, MultiQC, fastp, HISAT2, STAR, Salmon, featureCounts, DESeq2, edgeR, limma, clusterProfiler, GSEA
+- **Variant analysis:** BWA, SAMtools, bcftools, GATK
+- **Single-cell:** Seurat v5, Scanpy, Harmony, Monocle3, CellChat
+- **Machine learning & AI:** scikit-learn, XGBoost, TensorFlow/Keras, PyTorch, Optuna, SHAP, Captum
+- **Data science:** Python (pandas, NumPy, Matplotlib, seaborn), R (tidyverse, ggplot2, Bioconductor), Jupyter, RStudio, Linux/Bash
 
 ## Work with us
 
